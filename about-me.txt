@@ -1,1 +1,8 @@
 my name is rahul.
+
+commands learned till now:
+- git init
+- git commit 
+- git status
+- git log
+- git add
