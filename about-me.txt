@@ -10,5 +10,7 @@ commands learned till now:
 - git branch 
 - git checkout
 - git init
+- git rebase
+- git merge
 
 I am writing this line in branch main.
