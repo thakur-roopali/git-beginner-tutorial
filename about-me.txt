@@ -9,5 +9,6 @@ commands learned till now:
 - git diff
 - git branch 
 - git checkout
+- git init
 
 I am writing this line in branch main.
